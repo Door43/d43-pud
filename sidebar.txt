@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pud:home|Door43 (pud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pud|d43-pud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pud/archive/master.zip|d43-pud.zip]]
+
+**Recent Changes**
+{{changes>ns = pud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pud|Ethnologue data]]
+
